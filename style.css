@@ -1,0 +1,44 @@
+
+.image cup{
+padding-top: 60%;
+grid-template-columns: 50% 50%;
+display: grid;
+}
+.pieces{
+    display:grid;
+    grid-template-columns: 50%50%;
+    padding-top: 10%;
+
+}
+.IMAGES{
+    display: grid;
+    justify-content: right;
+    float: right;
+    padding-top: 50% 50%;
+}
+.flex{
+    display: grid;
+    grid-template-columns: 50%50%;
+    border-radius: 50%;
+}
+.restyle{
+    text-align: center;
+    display: flex;
+}
+.containers{
+    justify-content:space-around ;
+    display: flex;
+}
+.man{
+    display: flex;
+    -webkit-box-align: center;
+    flex-wrap: wrap;
+
+}
+.vase{
+    display: flex;
+    justify-content: right;
+}
+
+
+
